@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="sort_pick">Choose sort method</string>
+    <string name="popular">Popular first</string>
+    <string name="top_rated">Top-rated first</string>
+</resources>

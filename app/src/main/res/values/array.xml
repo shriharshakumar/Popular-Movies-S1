@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sort_meth">
+        <item>Popular Movies</item>
+        <item>Top-rated Movies</item>
+    </array>
+</resources>
